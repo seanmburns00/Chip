@@ -25,12 +25,12 @@ I thought about this project and thought it would be a great project to
 work on the skills I wanted to as well as learn a lot of other stuff. 
 
 # Skills learned/grown
-Python
-py-cord 
-openai API
-openai's whisper API
-Uberduck API
-FFMPEG
+ - Python
+ - py-cord 
+ - openai API
+ - openai's whisper API
+ - Uberduck API
+ - FFMPEG
 
 # What is next? 
 I will continue to add any features I think would be great additions to
