@@ -1,0 +1,44 @@
+```         ~~~ C. H. I. P. ~~~ 
+          ~~~ Help Menu ~~~ 
+
+Command Prefix: c+ 
+
+Commands:
+    1. help: Bring up this menu 
+    2. helpme: Bring up legacy help menu 
+    3. about: Bring up Chip's about me 
+    4. join: Chip joins your current voice channel 
+    5. leave: Chip leaves your current voice channel 
+    6. chip (+ message): Chip responds to you in text chat 
+    7. vc_chip (+ message): Chip responds to you in voice chat 
+    8. tts (+ tts message): Chip speaks a typed tts message 
+    9. listen: Chip starts listening to you speak 
+    10. stop: Chip stops listening and respond to you 
+    11. fart: Chip releases some gas in the voice chat
+
+Examples:
+    1. c+help
+    2. c+chip How was your day?
+    3. c+tts You Rock! Cancel that.
+    4. c+listen -> *you speak* -> c+stop
+    5. c+fart
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+            ~~~About C.H.I.P.~~~
+
+Chip is an imaginary friend bot. Is your discord dying, no one on 
+anymore? Don't worry Chip is here. Chip is a discord chat bot with
+voice and text functionality. By using openai Chip is able to have 
+a customizable personality in which is used to create a text response 
+to you. Uberduck allows this response to then be turned into a .wav
+audio file by using their text-to-speech. This file is then played 
+in a voice chat. Lastly, by using openai's whisper api Chip is able to
+listen to what you are saying in a voice chat and respond back to you.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+            ~~~Credits~~~
+Author: Sean (Buffaloninja#2047)
+https://seanburnsportfolio.com/
+https://github.com/seanmburns00/Chip```

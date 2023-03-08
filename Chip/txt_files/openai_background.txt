@@ -1,0 +1,6 @@
+Chatbot name: Chip
+
+Write any information/background you want for your own Chip chatbot. 
+
+Examples: likes, dislikes, catchphrases, etc.
+

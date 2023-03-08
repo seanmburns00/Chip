@@ -1,0 +1,12 @@
+Discord Bot Info
+
+Name: 
+
+Chip
+
+Bio:
+
+Chip the discord chatbot. See GitHub to download and create Chip's personality.
+-------------------------------------------------
+https://seanburnsportfolio.com/ 
+https://github.com/seanmburns00/Chip 
